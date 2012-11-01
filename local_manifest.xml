@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="OpenSensation/android_device_htc_pyramid" path="device/htc/pyramid" revision="ics" />
+  <project name="OpenSensation/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="ics" />
+
+  <project name="OpenSensation/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="ics" />
+  <project name="OpenSensation/android_vendor_updateme" path="vendor/updateme" revision="ics" />
+
+  <project name="OpenSensation/android_kernel_htc_msm8660" path="kernel/htc/msm8660" revision="opensensation" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" />
+  <project name="OpenSensation/android_packages_apps_Settings" path="packages/apps/Settings" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_vendor_cm" path="vendor/cm" />
+  <project name="OpenSensation/android_vendor_cm" path="vendor/cm" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_build" path="build" />
+  <project name="OpenSensation/android_build" path="build" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_frameworks_base" path="frameworks/base" />
+  <project name="OpenSensation/android_frameworks_base" path="frameworks/base" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_libcore" path="libcore" />
+  <project name="OpenSensation/android_libcore" path="libcore" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_bionic" path="bionic" />
+  <project name="OpenSensation/android_bionic" path="bionic" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_dalvik" path="dalvik" />
+  <project name="OpenSensation/android_dalvik" path="dalvik" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_system_vold" path="system/vold" />
+  <project name="OpenSensation/android_system_vold" path="system/vold" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_system_core" path="system/core" />
+  <project name="OpenSensation/android_system_core" path="system/core" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Camera" path="packages/apps/Camera" />
+  <project name="OpenSensation/android_packages_apps_Camera" path="packages/apps/Camera" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Usb" path="packages/apps/Usb" />
+  <project name="OpenSensation/android_packages_apps_Usb" path="packages/apps/Usb" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Phone" path="packages/apps/Phone" />
+  <project name="OpenSensation/android_packages_apps_Phone" path="packages/apps/Phone" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display" />
+  <project name="OpenSensation/android_hardware_qcom_display" path="hardware/qcom/display" revision="ics" />
+</manifest>
