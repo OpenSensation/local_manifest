@@ -6,7 +6,7 @@
   <project name="OpenSensation/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="ics" />
   <project name="OpenSensation/android_vendor_updateme" path="vendor/updateme" revision="ics" />
 
-  <project name="OpenSensation/android_kernel_htc_msm8660" path="kernel/htc/msm8660" revision="opensensation" />
+  <project name="OpenSensation/android_kernel_htc_msm8660" path="kernel/htc/msm8660" revision="ics" />
 
   <remove-project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" />
   <project name="OpenSensation/android_packages_apps_Settings" path="packages/apps/Settings" revision="ics" />
