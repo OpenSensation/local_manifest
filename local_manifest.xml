@@ -6,7 +6,7 @@
   <project name="OpenSensation/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="jellybean" />
 
   <project name="OpenSensation/android_device_asus_grouper" path="device/asus/grouper" revision="jellybean" />
-  <project name="OpenSensation/android_vendor_asus_grouper" path="vendor/asus/grouper" revision="jb" />
+  <project name="OpenSensation/android_vendor_asus_grouper" path="vendor/asus/grouper" revision="jellybean" />
   <project name="OpenSensation/android_kernel_asus_grouper" path="kernel/asus/grouper" revision="jellybean" />
 
   <project name="OpenSensation/android_vendor_updateme" path="vendor/updateme" revision="jellybean" />
