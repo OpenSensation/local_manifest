@@ -2,7 +2,7 @@
 <manifest>
   <project name="OpenSensation/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
   <project name="OpenSensation/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
-  <project name="OpenSensation/android_kernel_htc_msm8660" path="kernel/htc/msm8660" revision="jellybean" />
+  <project name="OpenSensation/android_kernel_htc_msm8660" path="kernel/htc/msm8660" revision="opensensation2" />
   <project name="OpenSensation/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="jellybean" />
 
   <project name="OpenSensation/android_device_asus_grouper" path="device/asus/grouper" revision="jellybean" />
